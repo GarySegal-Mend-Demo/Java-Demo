@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "GarySegal-Mend-Demo/whitesource-config@main",
   "scanSettings": {
       "enableReachability": true
-  }
+  },
   "scanSettingsSAST": {
     "enableSASTRemediation": true
   }
