@@ -4,6 +4,7 @@
       "enableReachability": true
   },
   "scanSettingsSAST": {
+    "enableSAST": "true",
     "enableSASTRemediation": true
   }
 }
